@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faiq Zeeshan</h1>
+<h1 align="center">Hi 👋, I'm Faiq Dogar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiq-dogar&label=VISITS&color=04bf25&style=plastic" alt="faiq-dogar" /> </p>
