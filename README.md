@@ -28,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faiq-dogar&show_icons=true&theme=dracula&locale=en" alt="faiq-dogar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faiq-dogar&" alt="faiq-dogar" /></p>
 
