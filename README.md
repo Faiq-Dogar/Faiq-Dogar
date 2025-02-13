@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faiq-dogar&show_icons=true&theme=dracula&locale=en&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faiq-dogar&show_icons=true&theme=dracula&locale=en&cache_seconds=1800" alt="faiq-dogar" />
 </p>
 
 <p align="center">
