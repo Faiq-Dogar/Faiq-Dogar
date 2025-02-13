@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faiq-dogar&show_icons=true&theme=dracula&locale=en&cache_seconds=1800" alt="faiq-dogar" />
+  <img align="center" src="https://github-stats-alpha.vercel.app/api?username=faiq-dogar&cc=000&tc=fff&ic=fff&bc=000" alt="faiq-dogar" />
 </p>
 
 <p align="center">
