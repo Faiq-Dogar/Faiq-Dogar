@@ -22,14 +22,19 @@
 
 ---
 
+### ⚡ Fun Fact
+💡 I automate everything I can! 🚀
+
+---
+
 ### 🔥 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiq-dogar&theme=dracula" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiq-dogar&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faiq-dogar&show_icons=true&theme=dracula&locale=en&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faiq-dogar&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -46,9 +51,23 @@
 ---
 
 ### 📊 GitHub Profile Trophy
-###<p align="center">
-###  <img src="https://github-profile-trophy.vercel.app/?username=faiq-dogar&theme=dracula&row=1&no-frame=true" />
-###</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faiq-dogar&theme=dracula&row=1&no-frame=true" />
+</p>
+
+---
+
+### 🎵 Music Vibes
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+</p>
+
+---
+
+### 🕶️ Random Dev Meme
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="500px"/>
+</p>
 
 ---
 
