@@ -46,9 +46,9 @@
 ---
 
 ### 📊 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faiq-dogar&theme=dracula&row=1&no-frame=true" />
-</p>
+###<p align="center">
+###  <img src="https://github-profile-trophy.vercel.app/?username=faiq-dogar&theme=dracula&row=1&no-frame=true" />
+###</p>
 
 ---
 
