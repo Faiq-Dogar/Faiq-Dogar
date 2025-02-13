@@ -26,9 +26,6 @@
 
 ### 🔥 My GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiq-dogar&theme=dracula" alt="GitHub Streak Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faiq-dogar&show_icons=true&theme=dracula&locale=en&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
