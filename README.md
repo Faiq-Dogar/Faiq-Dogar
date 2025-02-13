@@ -52,12 +52,6 @@
   <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,nextjs,vue,angular,html,css,bootstrap,tailwind,androidstudio,flutter,java,cpp,c,cs,python,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,git,github,gitlab,bash,linux,aws,gcp,firebase,graphql,jest,selenium" />
 </p>
 
----
-
-### 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faiq-dogar&theme=dracula&row=1&no-frame=true" />
-</p>
 
 ---
 
