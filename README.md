@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently working on **Property Rental Management System**  
+- 🔭 Currently working on **Property Rental Management System** & **Planit - HR and Task Management System**  
 - 🌱 Learning **React Native** & **Advanced CI/CD Pipelines**  
 - 👯 Open to collaborations on **Frontend & MERN Stack projects**  
 - 💬 Ask me about **MERN, MEAN, Next.js & Docker**  
