@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiq Dogar</h1>
-<h3 align="center">A Passionate Software Engineer 🚀</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C7B7&center=true&width=435&lines=A+Passionate+Software+Engineer!;MERN+Stack+%7C+Next.js+%7C+React+Native;Love+to+Build+and+Innovate" alt="Typing Animation" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faiq-dogar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,7 +15,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me  
 - 🔭 Currently working on **Property Rental Management System**  
 - 🌱 Learning **React Native** & **Advanced CI/CD Pipelines**  
 - 👯 Open to collaborations on **Frontend & MERN Stack projects**  
@@ -22,19 +24,14 @@
 
 ---
 
-### ⚡ Fun Fact
-💡 I automate everything I can! 🚀
-
----
-
 ### 🔥 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiq-dogar&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiq-dogar&theme=dracula" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faiq-dogar&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faiq-dogar&show_icons=true&theme=dracula&locale=en&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -43,30 +40,23 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 📊 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faiq-dogar&bg_color=1c1917&color=00C7B7&line=00C7B7&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,nextjs,vue,angular,html,css,bootstrap,tailwind,androidstudio,flutter,java,cpp,c,cs,python,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,git,github,gitlab,bash,linux,aws,gcp,firebase,graphql,jest,selenium" />
 </p>
 
 ---
 
-### 📊 GitHub Profile Trophy
+### 🏆 GitHub Profile Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=faiq-dogar&theme=dracula&row=1&no-frame=true" />
-</p>
-
----
-
-### 🎵 Music Vibes
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-</p>
-
----
-
-### 🕶️ Random Dev Meme
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="500px"/>
 </p>
 
 ---
