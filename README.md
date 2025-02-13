@@ -27,8 +27,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faiq-dogar&show_icons=true&theme=dark&locale=en&layout=compact" alt="faiq-dogar" /></p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faiq-dogar&show_icons=true&theme=dracula&locale=en&cache_seconds=1800&include_all_commits=true&count_private=true&rank_icon=percentile" alt="faiq-dogar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faiq-dogar&show_icons=true&theme=dracula&locale=en&cache_seconds=1800&include_all_commits=true&rank_icon=github" alt="faiq-dogar" />
 </p>
+
 
 
 
